@@ -13,10 +13,10 @@ Example of a list of points that make up a square:
 
 
 ## Use cases
-*I as a user can import a list of points
-*I as a user can add a point to an existing list
-*I as a user can delete a point from an existing list
-*I as a user can retrieve the squares identified
+- I as a user can import a list of points
+- I as a user can add a point to an existing list
+- I as a user can delete a point from an existing list
+- I as a user can retrieve the squares identified
 
 ## Getting Started
 
