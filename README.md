@@ -25,10 +25,10 @@ Working and accessible SQL database
 
 ### Run a docker container:
 1. Clone or download this repository to local machine.
-2. Install 
+2. Install Docker
 * [Windows](https://docs.docker.com/windows/started)
 * [OS X](https://docs.docker.com/mac/started/)
-* [Linux](https://docs.docker.com/linux/started/) if didn't install yet.
+* [Linux](https://docs.docker.com/linux/started/)
 3. Set up database default connection string in `SquaresAPI/appsettings.json`
 4. `sudo docker build -t enter-name-your-docker-container .`
 5. `sudo docker run -p 5000:5000 -it enter-name-your-docker-container` or `sudo docker run -p 5000:5000 -d enter-name-your-docker-container` to run detached.
@@ -43,5 +43,6 @@ Working and accessible SQL database
 ### Run on Visual Studio
 1. Install [Visual Studio 2019 for your platform](https://www.visualstudio.com/vs/) if didn't install yet.
 2. Open project
-3. Debug -> Start debugging
+3. Set up database default connection string in `SquaresAPI/appsettings.json`
+4. Debug -> Start debugging
 
