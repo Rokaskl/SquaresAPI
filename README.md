@@ -1,21 +1,22 @@
 # squaresApi
 
-## Tech
-- [.NET Core](https://www.microsoft.com/net/core/platform)
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-- [Microsoft/dotnet docker image](https://hub.docker.com/r/microsoft/dotnet/)
-
 ## About
 API that from a given set of points in a 2D plane - enables the consumer to find out sets of points that make squares and how many squares can be drawn. A point is a pair of integer X and Y coordinates. A square is a set of 4 points that when connected make up, well, a square.
 
 Example of a list of points that make up a square:
 [(-1;1), (1;1), (1;-1), (-1;-1)]
 
+## Tech
+- [.NET Core](https://www.microsoft.com/net/core/platform)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+- [Microsoft/dotnet docker image](https://hub.docker.com/r/microsoft/dotnet/)
+
+
 ## Use cases
-I as a user can import a list of points
-I as a user can add a point to an existing list
-I as a user can delete a point from an existing list
-I as a user can retrieve the squares identified
+*I as a user can import a list of points
+*I as a user can add a point to an existing list
+*I as a user can delete a point from an existing list
+*I as a user can retrieve the squares identified
 
 ## Getting Started
 
