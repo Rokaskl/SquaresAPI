@@ -1,12 +1,10 @@
 # squaresApi
 
-## Based on 
-- [More about .NET Core](https://www.microsoft.com/net/core/platform)
-- [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/)
+## Tech
+- [.NET Core](https://www.microsoft.com/net/core/platform)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-- [HOSTING .NET CORE ON LINUX WITH DOCKER - A NOOB'S GUIDE](http://blog.scottlogic.com/2016/09/05/hosting-netcore-on-linux-with-docker.html)
 - [Microsoft/dotnet docker image](https://hub.docker.com/r/microsoft/dotnet/)
-- 
+
 ## About
 API that from a given set of points in a 2D plane - enables the consumer to find out sets of points that make squares and how many squares can be drawn. A point is a pair of integer X and Y coordinates. A square is a set of 4 points that when connected make up, well, a square.
 
