@@ -3,8 +3,8 @@
 ## About
 API that from a given set of points in a 2D plane - enables the consumer to find out sets of points that make squares and how many squares can be drawn. A point is a pair of integer X and Y coordinates. A square is a set of 4 points that when connected make up, well, a square.
 
-Example of a list of points that make up a square:
-[(-1;1), (1;1), (1;-1), (-1;-1)]
+-Example of a list of points that make up a square:
+-[(-1;1), (1;1), (1;-1), (-1;-1)]
 
 ## Tech
 - [.NET Core](https://www.microsoft.com/net/core/platform)
