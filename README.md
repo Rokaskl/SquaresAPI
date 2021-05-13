@@ -41,8 +41,9 @@ Working and accessible SQL database
 5. `dotnet run`
 
 ### Run on Visual Studio
-1. Install [Visual Studio 2019 for your platform](https://www.visualstudio.com/vs/) if didn't install yet.
-2. Open project
-3. Set up database default connection string in `SquaresAPI/appsettings.json`
-4. Debug -> Start debugging
+1. Clone or download this repository to local machine.
+2. Install [Visual Studio 2019 for your platform](https://www.visualstudio.com/vs/) if didn't install yet.
+3. Open project
+4. Set up database default connection string in `SquaresAPI/appsettings.json`
+5. Debug -> Start debugging
 
